@@ -1,0 +1,10 @@
+D:\Projects\CodeForBulgaria\CodeForBulgaria\KappaServer\Kappa.Data\bin\Debug\Kappa.Data.dll.config
+D:\Projects\CodeForBulgaria\CodeForBulgaria\KappaServer\Kappa.Data\bin\Debug\Kappa.Data.dll
+D:\Projects\CodeForBulgaria\CodeForBulgaria\KappaServer\Kappa.Data\bin\Debug\Kappa.Data.pdb
+D:\Projects\CodeForBulgaria\CodeForBulgaria\KappaServer\Kappa.Data\bin\Debug\EntityFramework.dll
+D:\Projects\CodeForBulgaria\CodeForBulgaria\KappaServer\Kappa.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\CodeForBulgaria\CodeForBulgaria\KappaServer\Kappa.Data\bin\Debug\EntityFramework.xml
+D:\Projects\CodeForBulgaria\CodeForBulgaria\KappaServer\Kappa.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\CodeForBulgaria\CodeForBulgaria\KappaServer\Kappa.Data\obj\Debug\Kappa.Data.dll
+D:\Projects\CodeForBulgaria\CodeForBulgaria\KappaServer\Kappa.Data\obj\Debug\Kappa.Data.pdb
+D:\Projects\CodeForBulgaria\CodeForBulgaria\KappaServer\Kappa.Data\obj\Debug\Kappa.Data.csprojResolveAssemblyReference.cache
